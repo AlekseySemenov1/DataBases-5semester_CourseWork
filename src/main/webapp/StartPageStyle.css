@@ -1,0 +1,44 @@
+body{
+    background-color: #464343;
+}
+
+#header{
+    width: 100%;
+    background-color: #464343;
+    height: 100%;
+    padding: 20px 0 0;
+    flex-direction: column;
+    text-align: center;
+    border-bottom: 2px solid #464343;
+    min-width: 1000px;
+}
+
+span{
+    font-size: 2.5vw;
+    color: whitesmoke;
+    font-family: "Monotype Corsiva";
+}
+
+#FormBlock{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.radio{
+    width: 50%;
+}
+
+#user_selector{
+    margin: 15px;
+    width: 200px;
+}
+
+#Submit{
+    min-height: 20px;
+    width: 10%;
+    background-color: #fdfdfd;
+    border-radius: 30px;
+    font-family: "Monotype Corsiva";
+    font-size: 1.5vw;
+    color: rgba(52,48,52,0.92);
+}
